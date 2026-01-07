@@ -1,8 +1,8 @@
-tmini.cloudflare.19931110.xyz:443#byoip.top
-tmini.cf.cnae.top:443#byoip.top
-tmini.edgeone.19931110.xyz:443#byoip.top
-tmini.netlify.19931110.xyz:443#byoip.top
-tmini..vercel.19931110.xyz:443#byoip.top
+tmini.cloudflare.19931110.xyz:443#byoip.top1
+tmini.cf.cnae.top:443#byoip.top2
+tmini.edgeone.19931110.xyz:8443#byoip.top3
+tmini.netlify.19931110.xyz:8443#byoip.top4
+tmini..vercel.19931110.xyz:8443#byoip.top5
 cf.090227.xyz:443#美国-域名1
 mh867.com:443#美国-域名2
 cf.877774.xyz:443#美国-域名3
