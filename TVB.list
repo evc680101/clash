@@ -6,9 +6,9 @@
 # DOMAIN-SUFFIX: 18
 # USER-AGENT: 2
 # TOTAL: 23
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,edgeware.tvb.com
-DOMAIN-SUFFIX,hrtn.net
+- DOMAIN-SUFFIX,tvb.com
+- DOMAIN-SUFFIX,edgeware.tvb.com
+- DOMAIN-SUFFIX,hrtn.net
 
 - DOMAIN,bcbolt446c5271-a.akamaihd.net
 - DOMAIN,edge.api.brightcove.com
