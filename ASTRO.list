@@ -74,11 +74,4 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,visionplus.id
 DOMAIN-SUFFIX,wakutv.site
-DOMAIN-SUFFIX,cloudflareclient.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,gates.cloudflare.com
-DOMAIN-SUFFIX,dash.cloudflare.com
-DOMAIN-SUFFIX,sparrow.cloudflare.com
-DOMAIN-SUFFIX,platform.dash.cloudflare.com
-DOMAIN-SUFFIX,time.cloudflare.com
-DOMAIN-SUFFIX,csp-reporting.cloudflare.com
+
