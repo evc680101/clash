@@ -8,16 +8,16 @@ DOMAIN-SUFFIX,starhubgo.com
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-KEYWORD,astro
 DOMAIN-KEYWORD,wavve
-    - DOMAIN-SUFFIX,*.mydiver.eu.org
-    - DOMAIN-SUFFIX,githubusercontent.com
-    - DOMAIN-SUFFIX,unifi.com.my
-    - DOMAIN-SUFFIX,hypp.tv
-    - DOMAIN-SUFFIX,secureswiftcontent.com
-    - DOMAIN-SUFFIX,nocookie.net
-    - DOMAIN-SUFFIX,verspective.net
-    - DOMAIN-SUFFIX,cloudfront.net
-    - DOMAIN-SUFFIX,astro.com.my
-    - DOMAIN-SUFFIX,adaptive.stream
+DOMAIN-SUFFIX,*.mydiver.eu.org
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,unifi.com.my
+DOMAIN-SUFFIX,hypp.tv
+DOMAIN-SUFFIX,secureswiftcontent.com
+DOMAIN-SUFFIX,nocookie.net
+DOMAIN-SUFFIX,verspective.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,astro.com.my
+DOMAIN-SUFFIX,adaptive.stream
     - DOMAIN-SUFFIX,sooka.my
     - DOMAIN-SUFFIX,wanicelife.com
     - DOMAIN-SUFFIX,wikimedia.org
