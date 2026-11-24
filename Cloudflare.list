@@ -1,0 +1,20 @@
+# NAME: Cloudflare
+# AUTHOR: evc680101
+# UPDATED: 2026-11-24
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 11
+# IP-CIDR6: 0
+# TOTAL: 11
+payload:
+# === 官网、控制台与核心服务 ===
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflareok.com
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflareregistrar.com
+DOMAIN-SUFFIX,cloudflarestaging.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cf-ipfs.com
